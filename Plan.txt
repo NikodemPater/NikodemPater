@@ -1,0 +1,14 @@
+### Here is general plan for the project.
+1. Setting up services on Windows/Linux OS
+2. Making it secured using Open-Sourced Applications
+3. Set up some IDS, IPS software
+4. Write rules that will create alerts for suspicious behaviors
+5. Set up a SIEM to collect all the necessary logs
+6. Test my security solutions in the wild, by crystal clear boxing it (Kind of penetraion test)
+7. Patch the vulnerabilities I found
+
+
+#### If everything works, then:
+1. Try to create models for detecting suspicios behaviors of the system using Machine Learning system → Sending Syslog logs to it,
+and it detects if something should be categorized as normal or the other way around
+2. Set up a mail service, and creating SPAM filter for it → Using Machine Learning
