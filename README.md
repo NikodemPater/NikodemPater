@@ -29,7 +29,7 @@ Welcome to my GitHub! 🚀 Here, you'll find my journey through the world of pro
 
 ## 📚 **Highlighted Projects**  
 
-### [📂 Project 1: Setting up a my own Server](https://github.com/yourusername/project1)  
+### [📂 Project 1: Setting up a my own Server](https://github.com/NikodemPater/NikodemPater/tree/My-own-server-with-all-security-solutions-set-up)  
 🌟 Reconfiguring my computer into a Server and making sure that it is secure with my self-developed AV, EDR, WAF etc…
 - **Tech Stack**: Python, Machine Learning 
 - **Key Features**:  
