@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Nikodem!  
-🎯 **Aspiring Cybersecurity with Machine Learning Developer | Problem Solver | Lifelong Learner**  
+🎯 **Aspiring Cybersecurity Craftsman and Machine Learning Developer | Problem Solver | Lifelong Learner**  
 
 Welcome to my GitHub! 🚀 Here, you'll find my journey through the world of programming, including projects that showcase my skills and creativity.
 
