@@ -29,29 +29,19 @@ Welcome to my GitHub! 🚀 Here, you'll find my journey through the world of pro
 
 ## 📚 **Highlighted Projects**  
 
-### [📂 Project 1: Your Project Name](https://github.com/yourusername/project1)  
-🌟 A brief description of the project (e.g., "A task management app using React and Node.js").  
-- **Tech Stack**: React, Node.js, MongoDB  
+### [📂 Project 1: Setting up a my own Server](https://github.com/yourusername/project1)  
+🌟 Reconfiguring my computer into a Server and making sure that it is secure with my self-developed AV, EDR, WAF etc…
+- **Tech Stack**: Python, Machine Learning 
 - **Key Features**:  
-  - Feature 1  
-  - Feature 2  
-  - Feature 3  
-
----
-
-### [📂 Project 2: Your Project Name](https://github.com/yourusername/project2)  
-🌟 A brief description of the project (e.g., "Python script for automating data analysis workflows").  
-- **Tech Stack**: Python, Pandas, Matplotlib  
-- **Key Features**:  
-  - Feature 1  
-  - Feature 2  
+  - Secured  
+  - Ready to test for exploits 
+  - Gaining experience with setting up all of it
 
 ---
 
 ## 📫 **Contact Me**  
 📧 Email: nikodem.pater@proton.me
 💼 LinkedIn: [Nikodem Pater]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nikodem-pater-8bb72a302/))  
-🌐 Portfolio: [Your Portfolio Website](https://yourportfolio.com)  
 
 ---
 
