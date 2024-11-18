@@ -1,32 +1,28 @@
-# 👋 Hello, I'm [Your Name]!  
-🎯 **Aspiring Software Developer | Problem Solver | Lifelong Learner**  
+# 👋 Hello, I'm Nikodem!  
+🎯 **Aspiring Cybersecurity with Machine Learning Developer | Problem Solver | Lifelong Learner**  
 
 Welcome to my GitHub! 🚀 Here, you'll find my journey through the world of programming, including projects that showcase my skills and creativity.
 
 ---
 
 ## 🌟 **About Me**  
-- 🎓 **Education**: [Your Degree, e.g., BSc in Computer Science] from [Your University]  
-- 💼 **Interests**: Web Development, Data Science, Automation, Open Source  
-- 🌱 **Currently Learning**: [E.g., React, Docker, Machine Learning]  
-- ✨ **Goal**: To create impactful software that makes life easier.
+- 🎓 **Education**: Studying Cybersecurity at Wrocław University of Science and Technology
+- 💼 **Interests**: SOC, Cybersecurity Analyst, Data Analyst, AI  
+- 🌱 **Currently Learning**: Machine Learning [Scikit-Learn and TensorFlow]
+- ✨ **Goal**: To create impactful software that makes life easier and make everything secured in Local Environment.
 
 ---
 
 ## 🛠️ **Skills**  
 - **Programming Languages**:  
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
   ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 
 - **Web Development**:  
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
 - **Tools & Technologies**:  
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
   ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
@@ -53,8 +49,8 @@ Welcome to my GitHub! 🚀 Here, you'll find my journey through the world of pro
 ---
 
 ## 📫 **Contact Me**  
-📧 Email: [Your Professional Email]  
-💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+📧 Email: nikodem.pater@proton.me
+💼 LinkedIn: [Nikodem Pater]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nikodem-pater-8bb72a302/))  
 🌐 Portfolio: [Your Portfolio Website](https://yourportfolio.com)  
 
 ---
